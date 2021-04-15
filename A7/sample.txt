@@ -1,0 +1,11 @@
+for i in range(0,300):  
+ 	print '%s\t%s\t%d\t%f' % (str(row)+str(i),col,str(1))
+
+for i in range(0,300):  
+ 	print '%s\t%s\t%d\t%f' % (str(col)+str(i),row,str(1))
+
+for i in range(0,300):  
+	print '%s\t%s\t%d\t%f' % (str(i)+str(col),entry[0],row,value)
+
+for i in range(0,300):  
+	print '%s\t%s\t%d\t%f' % (str(i)+str(row),entry[0],col,value)

@@ -1,0 +1,3 @@
+model_checkpoint_path: "log_cnn"
+all_model_checkpoint_paths: "../checkpoints/mnist_cnn_model.ckpt"
+all_model_checkpoint_paths: "log_cnn"

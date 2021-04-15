@@ -1,0 +1,21 @@
+ movie genre link:
+1. Action &Adventure:
+https://www.rottentomatoes.com/top/bestofrt/top_100_action__adventure_movies/
+2. Animation:
+https://www.rottentomatoes.com/top/bestofrt/top_100_animation_movies/
+3. Drama:
+https://www.rottentomatoes.com/top/bestofrt/top_100_drama_movies/
+4. Comedy:
+https://www.rottentomatoes.com/top/bestofrt/top_100_comedy_movies/
+5. Mystery & Suspense:
+https://www.rottentomatoes.com/top/bestofrt/top_100_mystery__suspense_movies/
+6. Horror:
+https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/
+7. Sci-Fi:
+https://www.rottentomatoes.com/top/bestofrt/top_100_science_fiction__fantasy_movies/
+8. Documentary:
+https://www.rottentomatoes.com/top/bestofrt/top_100_documentary_movies/
+9. Romance:
+https://www.rottentomatoes.com/top/bestofrt/top_100_romance_movies/
+10. Classics:
+https://www.rottentomatoes.com/top/bestofrt/top_100_classics_movies/
