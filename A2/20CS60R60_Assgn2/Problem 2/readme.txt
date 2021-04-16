@@ -1,4 +1,4 @@
-// Computing lab II ||  CS69012  || Assignment #2
+// Computing lab II ||  CS69012  ||   Assignment #2
 //Submitted by - Ravi Pratap Singh (20CS60R60 )
 
 (on linux kernal)
